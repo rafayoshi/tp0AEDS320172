@@ -1,0 +1,3 @@
+C:/Users/rafae/CLionProjects/tp020172/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rafae/CLionProjects/tp020172/cmake-build-debug/CMakeFiles/tp020172.dir
+C:/Users/rafae/CLionProjects/tp020172/cmake-build-debug/CMakeFiles/edit_cache.dir

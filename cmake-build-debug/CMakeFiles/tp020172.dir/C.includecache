@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rafae/CLionProjects/tp020172/mainMatriz.c
+stdio.h
+-
+stdlib.h
+-
+mem.h
+-
+matriz.h
+C:/Users/rafae/CLionProjects/tp020172/matriz.h
+
+C:/Users/rafae/CLionProjects/tp020172/matriz.c
+stdio.h
+-
+stdlib.h
+-
+mem.h
+-
+matriz.h
+C:/Users/rafae/CLionProjects/tp020172/matriz.h
+
+C:/Users/rafae/CLionProjects/tp020172/matriz.h
+
