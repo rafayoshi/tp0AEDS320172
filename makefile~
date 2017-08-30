@@ -1,11 +1,10 @@
-PROGRAM_NAME = matriz
 CC = gcc
-CFLAGS = -g -O0 -Wall -Wextra -Werror -std=c99 -pedantic
+CFLAGS = -Wall -Wextra -Werror -std=c99 -pedantic -O2
 OBJ = mainMatriz.o matriz.o
 DEPS = matriz.h
 VFLAGS = --leak-check=full --leak-resolution=high --show-reachable=yes --track-origins=yes
-EXEC = ./exec < input
-TIMED_RUN = time ./exec < input
+EXEC = ./exec < teste/teste09.in
+TIMED_RUN = time ./exec < teste/teste09.in
 
 all: exec
 
